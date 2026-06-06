@@ -1,12 +1,12 @@
 <div align="center">
 # Hey 👋, I'm Lucas
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucas_dtrch?igsh=MTBrMWJwNjhkZ2FzMA%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-dietrich-206b59282?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dietrich.lucas@proton.me) 
-
+  
 Aspiring SOC Analyst based in France 🇫🇷, working toward Montréal 🇨🇦  
 Self-taught, hands-on learner — building my skills one lab at a time.
 </div>
 
 ## About Me
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lucas_dtrch?igsh=MTBrMWJwNjhkZ2FzMA%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-dietrich-206b59282?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dietrich.lucas@proton.me) 
 I'm passionate about cybersecurity and proud of my self-taught journey. I enjoy actively developing my skills through hands-on projects in my home lab and am working towards earning the CompTIA Security+ certification. My goal is to become a Tier 1 Analyst in a Security Operations Center (SOC), where I can focus on threat detection and log analysis.
 
 
