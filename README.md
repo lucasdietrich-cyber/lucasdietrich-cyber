@@ -8,7 +8,7 @@ Self-taught, hands-on learner — building my skills one lab at a time.
 
 ---
 ## About Me
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:dietrich.lucas@proton.me) 
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) ![email][(https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)(mailto:dietrich.lucas@proton.me)]
 
 I'm passionate about cybersecurity and proud of my self-taught journey. I enjoy actively developing my skills through hands-on projects in my home lab and am working towards earning the CompTIA Security+ certification. My goal is to become a Tier 1 Analyst in a Security Operations Center (SOC), where I can focus on threat detection and log analysis.
 
