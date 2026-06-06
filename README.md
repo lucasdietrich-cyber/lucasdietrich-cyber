@@ -12,6 +12,14 @@ Self-taught, hands-on learner — building my skills one lab at a time.
 
 I'm passionate about cybersecurity and proud of my self-taught journey. I enjoy actively developing my skills through hands-on projects in my home lab and am working towards earning the CompTIA Security+ certification. My goal is to become a Tier 1 Analyst in a Security Operations Center (SOC), where I can focus on threat detection and log analysis.
 
+## Skills
+
+| Skill | Associated Project |
+|-------|-------------------|
+| SIEM Implementation and Log Analysis | [SOC Home Lab](#) |
+| Network Intrusion Detection | [SOC Home Lab](#) |
+| Host-based Monitoring and Alerting | [SOC Home Lab](#) |
+| Log Analysis and Threat Hunting | [SOC Home Lab](#) |
 
 ## Tech Stack
 ### Scripting OS 
