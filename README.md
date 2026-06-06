@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and proud of my self-taught journey. I enjoy 
 
 # 💻 Tech Stack:
 ## Scripting OS
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![PowerShell](https://imgs.search.brave.com/_FnWsi4uBUaFhYgcAO5owME7JqPeRltpN0gOhkfI5MA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/aWNvbnM4LmNvbS9l/eHRlcm5hbC10YWwt/cmV2aXZvLXNoYWRv/dy10YWwtcmV2aXZv/LzEyMDAvZXh0ZXJu/YWwtcG93ZXJzaGVs/bC1hLXRhc2stYmFz/ZWQtY29tbWFuZC1s/aW5lLXNoZWxsLWFu/ZC1zY3JpcHRpbmct/bGFuZ3VhZ2UtbG9n/by1zaGFkb3ctdGFs/LXJldml2by5qcGc) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ## Network
 ![Suricata](https://camo.githubusercontent.com/29aa04cf576018bebcc81a4b12b9719767033abfef9fedc88ee5f3dd19be61cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53757269636174612d4546334232443f267374796c653d666f722d7468652d6261646765266c6f676f3d5375726963617461266c6f676f436f6c6f723d7768697465)
 ## SIEM
