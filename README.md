@@ -19,4 +19,4 @@ I'm passionate about cybersecurity and proud of my self-taught journey. I enjoy 
 ### Network
 ![Suricata](https://camo.githubusercontent.com/29aa04cf576018bebcc81a4b12b9719767033abfef9fedc88ee5f3dd19be61cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53757269636174612d4546334232443f267374796c653d666f722d7468652d6261646765266c6f676f3d5375726963617461266c6f676f436f6c6f723d7768697465)
 ### SIEM
-![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=flat) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) 
+![Wazuh](https://img.shields.io/badge/Wazuh-1D6FA5?style=for-the-badge&logoColor=white) 
