@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi 👋, I'm Lucas </h1>
+<h1> Hi <img src="https://tenor.com/fr/view/hand-waving-hand-emoji-gif-14999877618442267107" width="35px">, I'm Lucas </h1>
   
 Aspiring SOC Analyst based in France 🇫🇷, working toward Montréal 🇨🇦  
 Self-taught, hands-on learner — building my skills one lab at a time.
