@@ -1,5 +1,5 @@
 <div align="center">
-# Hi 👋, I'm Lucas
+<h1> Hi 👋, I'm Lucas </h1>
   
 Aspiring SOC Analyst based in France 🇫🇷, working toward Montréal 🇨🇦  
 Self-taught, hands-on learner — building my skills one lab at a time.
