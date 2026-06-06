@@ -13,7 +13,7 @@ Self-taught, hands-on learner — building my skills one lab at a time.
 I'm passionate about cybersecurity and proud of my self-taught journey. I enjoy actively developing my skills through hands-on projects in my home lab and am working towards earning the CompTIA Security+ certification. My goal is to become a Tier 1 Analyst in a Security Operations Center (SOC), where I can focus on threat detection and log analysis.
 
 
-## 💻 Tech Stack:
+## Tech Stack:
 ### Scripting OS 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ### Network
