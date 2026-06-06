@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Hi <img src="https://tenor.com/r2dLhinjER5.gif" width="35px">, I'm Lucas </h1>
+<h1> Hi <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXg2NDh2azg4Z2JsdWt0cnhhZ2ZxMzg4czc4NHN3NzNsb25wY2Z5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="35px">, I'm Lucas </h1>
   
 Aspiring SOC Analyst based in France 🇫🇷, working toward Montréal 🇨🇦  
 Self-taught, hands-on learner — building my skills one lab at a time.
