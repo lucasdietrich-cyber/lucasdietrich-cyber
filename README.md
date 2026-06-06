@@ -13,11 +13,11 @@ I'm passionate about cybersecurity and proud of my self-taught journey. I enjoy 
 
 # 💻 Tech Stack:
 
-# Scripting OS
+## Scripting OS
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 
-# Network
+## Network
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) 
 
-# SIEM
+## SIEM
 ![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=flat)
