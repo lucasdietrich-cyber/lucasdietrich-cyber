@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and proud of my self-taught journey. I enjoy 
 
 | Skill | Associated Project |
 |-------|-------------------|
-| SIEM Implementation and Log Analysis | [SOC Home Lab](#) |
+| SIEM Implementation | [SOC Home Lab](#) |
 | Network Intrusion Detection | [SOC Home Lab](#) |
 | Host-based Monitoring and Alerting | [SOC Home Lab](#) |
 | Log Analysis and Threat Hunting | [SOC Home Lab](#) |
